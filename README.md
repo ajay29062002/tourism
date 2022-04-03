@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>Letstravel</h1>
+	<h1>Tourism</h1>
 	<img src="./images/favicon.png" height="100" width="100">
 </div>
 
@@ -15,7 +15,4 @@ Admin can:
 * delete existing trips
 
 
-Contributers:
-* [Shivanee Jaiswal](https://github.com/shivaneej)
-* [Vicky Daiya](https://github.com/vickydaiya)
-* [Grusha Dharod](https://github.com/grushad)
+
