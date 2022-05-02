@@ -2,8 +2,8 @@
 	$servername = 'localhost';
     $username = 'root';
     $password = '';
-    $db='letstravel';
-    $conn = mysqli_connect($servername,$username,$password,$db);
+    $db='iUV6o1QyZG';
+    $conn = mysqli_connect(remotemysql.com,iUV6o1QyZG,JJFSxOcZOp,iUV6o1QyZG);
     
     if (!$conn) 
     {
