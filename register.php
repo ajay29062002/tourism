@@ -1,8 +1,5 @@
 <?php
-	$servername = 'localhost';
-    $username = 'root';
-    $password = '';
-    $db='iUV6o1QyZG';
+	
     $conn = mysqli_connect(remotemysql.com,iUV6o1QyZG,JJFSxOcZOp,iUV6o1QyZG);
     
     if (!$conn) 
