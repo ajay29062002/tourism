@@ -2,10 +2,10 @@
 
 if(isset($_POST['loginbtn']))
 {
-	$servername = 'localhost';
-    $username = 'root';
-    $password = '';
-    $db='letstravel';
+	$servername = 'remotemysql.com';
+    $username = 'iUV6o1QyZG';
+    $password = 'JJFSxOcZOp';
+    $db='iUV6o1QyZG';
     $conn = mysqli_connect($servername,$username,$password,$db);
 
     if (!$conn) 
